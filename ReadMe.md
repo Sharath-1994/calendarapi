@@ -1,6 +1,9 @@
 # Welcome to Calendar App
 
-Calendar App is responsible the get all the list of available rooms in the building  
+About Events
+•	An event would typically consist of {start, end, location, Owner, user-list, title}.
+•	Events can either be like meetings (with a dedicated location and appropriate guest-list) or as well be like holidays, birthdays, reminders etc.
+•	An event once created, can be either accepted or rejected by the constituent users - if neither it should be in neutral state.
 
 Below are the API which will be implemented - 
 
